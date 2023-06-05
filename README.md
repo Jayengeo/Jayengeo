@@ -7,6 +7,7 @@
 <br>
 
 I'm a fresh-faced Full-stack developer graduate from the awesome Lighthouse Labs. Coding is my jam, but when I'm not debugging or building killer apps, I love to climb in my spare time 🧗‍♂️.
+- 📫 How to reach me: jacky.jn.ngo@gmail.com
 
 <br>
 
