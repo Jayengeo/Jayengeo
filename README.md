@@ -58,7 +58,7 @@ I'm a fresh-faced Full-stack developer graduate from the awesome Lighthouse Labs
     </td> 
     <td align="center" height="108" width="108">
       <img src="https://www.svgrepo.com/show/374053/rspec.svg" width="48" height="48" alt="RSPEC" />
-      <br /><strong>RS</strong>
+      <br /><strong>RSpec</strong>
     </td>
     <td align="center" height="108" width="108">
       <img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/storybook.png" width="48" height="48" alt="Storybook" />
