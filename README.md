@@ -13,10 +13,7 @@ I'm a fresh-faced Full-stack developer graduate from the awesome Lighthouse Labs
 
 # 📈 Stats:
 
-<p align="left">
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jayengeo&langs_count=14&hide=yacc,cmake,scss,ejs,hcl,c,shell&show_icons=true&locale=en&layout=compact" width="50%" alt="jayengeo"/>
-</p>
 
 <br>
 
