@@ -2,7 +2,6 @@
 
 
 <h1 align="center">Jacky Ngo</h1>
-<h2 align="center">Full-Stack Developer</h2>
 
 <br>
 
